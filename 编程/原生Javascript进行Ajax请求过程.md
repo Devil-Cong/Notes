@@ -117,7 +117,9 @@ Ajax('get', 'data/data.html', sendData, function(data){
     console.log(error);
 });
 ```
-原文来自[原生JavaScript封装Ajax](http://www.cnblogs.com/Webcom/p/3415295.html)
+
+#### 原文来自
+蓝克比尔的[原生JavaScript封装Ajax](http://www.cnblogs.com/Webcom/p/3415295.html)
 
 
 
