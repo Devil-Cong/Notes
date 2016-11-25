@@ -12,5 +12,5 @@
 5.	const是用来定义常量的，即不可修改的
 
 #### 笔记参考资料：
-麻辣小隔壁的[var、let、const 区别？](http://www.jianshu.com/p/4e9cd99ecbf5)
+麻辣小隔壁的[var、let、const 区别？](http://www.jianshu.com/p/4e9cd99ecbf5)  
 cookfront的[每天学点ES6－let和const](http://cookfront.github.io/2015/05/28/es6-let-const)
