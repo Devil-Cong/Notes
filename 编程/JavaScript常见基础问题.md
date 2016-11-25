@@ -2,4 +2,5 @@
 
 #### 1、typeof 返回值有哪些？
 > undefined、number、object、string、boolean
+
 #### 2、
