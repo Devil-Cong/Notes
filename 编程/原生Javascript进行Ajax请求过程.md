@@ -1,4 +1,4 @@
-### 原生Javascript进行Ajax请求过程
+### 原生JavaScript进行Ajax请求过程
 
 #### 1、创建Ajax对象
 ``` javascript
