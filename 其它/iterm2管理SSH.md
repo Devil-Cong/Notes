@@ -4,8 +4,8 @@
 
 #### 1、编写连接脚本
 ```shell
-vim ~/.ssh/vps.23 
 # vps.23 是文件名字，可以随便取
+vim ~/.ssh/vps.23 
 ```
 
 ```shell
@@ -28,8 +28,8 @@ expect eof
 打开`iterm2`，选择`Preferences`，再选择`Profiles`，按`+`号新增一个`profile`，填写好名称方便以后区分，然后在右边的`Command`输入框中写上
 
 ```shell
-expect ~/.ssh/vps.23 
 # expect <刚刚保存脚本的路径>
+expect ~/.ssh/vps.23 
 ```
 #### 原文来自
 > 半兽人的[ITerm2下使用ssh保存密码](http://orchome.com/99)
